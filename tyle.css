@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.cabeçalho{
+    text-align: center;
+    padding: 50;
+}
+.secao{
+    text-align: center;
+    font-size: xx-large;
+    color: black;
+    font-weight: 100;
+}
